@@ -16,7 +16,7 @@ Due to Pokecord & Discord's nature, please be aware of the following:
 5. Be mindful of large pokemon movements. Be smart, not greedy.
 6. Do not use the Pokecord Exchange server, use the website version.
 
-#Terms of Service
+# Terms of Service
 
 1. There are no refunds. It is non-transferrable.
 2. I will offer support on Discord to the Discord accounts that purchase the script.
