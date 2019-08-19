@@ -2,9 +2,9 @@
 A python self-bot made for Pokecord players who want an easier method to bulk (mass-buy) pokemon off the market!
 
 # Requirements
-Add me on Discord to purchase the full version, or if you have any questions.
-Discord: Amaranth#7483
-Price: 15USD [PayPal, Venmo, BTC Accepted]
+1. Add me on Discord to purchase the full version, or if you have any questions.
+2. Discord: Amaranth#7483
+3. Price: 15USD [PayPal, Venmo, BTC Accepted]
 
 # Safety & Security
 Due to Pokecord & Discord's nature, please be aware of the following:
