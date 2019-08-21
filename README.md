@@ -6,6 +6,7 @@ A python self-bot made for Pokecord players who want an easier method to bulk (m
 2. There is a demo account set up if you want to see how it works, just add me for server access.
 3. Discord: Amaranth#7483
 4. Price: 15USD [PayPal, Venmo, BTC Accepted]
+5. Python 3.6 + IDE [Atom Recommended]
 
 # Safety & Security
 Due to Pokecord & Discord's nature, please be aware of the following:
